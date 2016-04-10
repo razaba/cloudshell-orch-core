@@ -1,2 +1,2 @@
-# cloudshell.orch.core
+# cloudshell-orch-core
 Base package for common orchestration script functions
