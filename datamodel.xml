@@ -1,4 +1,6 @@
 <ns0:DataModelInfo xmlns:ns0="http://schemas.qualisystems.com/ResourceManagement/DataModelSchema.xsd">
+	<ns0:ResourceFamilies>
+	</ns0:ResourceFamilies>
   <ns0:ScriptDescriptors>
     <ns0:ScriptDescriptor Alias="Setup script" CategoryName="Hidden Commands" Name="Default Sandbox Setup" Version="1.0.0">
       <ns0:ScriptInputs />
